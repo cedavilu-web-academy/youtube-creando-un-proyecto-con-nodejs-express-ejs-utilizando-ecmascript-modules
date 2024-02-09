@@ -4,7 +4,7 @@
 <ol>
   <li>Descomprimir la carpeta</li>
   <li>Abrir en Visual Studio Code la carpeta del proyecto</li>
-  <li>Ejecutar el comando: npm install ó el comando npom i</li>
+  <li>Ejecutar el comando: npm install ó el comando npm i</li>
   <li>Luego debes ejecutar el comando: npm start</li>
   <li>Finalmente debes ir a tu navegador de preferencia y colocar la sigiuiente ruta: http://localhost:3001</li>
 </ol>

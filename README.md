@@ -1,12 +1,15 @@
-Al descargar este proyecto, debes ejecutar los siguientes pasos:
-1.- Descomprimir la carpeta
-2.- Abrir en Visual Studio Code la carpeta del proyecto
-3.- Ejecutar el comando: npm install ó el comando npom i
-4.- Luego debes ejecutar el comando: npm start
-5.- Finalmente debes ir a tu navegador de preferencia y colocar la sigiuiente ruta: http://localhost:3001
+<h1>Creanbdo un proyecyto con NODE.JS - EXPRESS Y EJS, utiliozando Ecmascript modules</h1>
+<br>
+<h2>Al descargar este proyecto, debes ejecutar los siguientes pasos:</h2>
+<ol>
+  <li>Descomprimir la carpeta</li>
+  <li>Abrir en Visual Studio Code la carpeta del proyecto</li>
+  <li>Ejecutar el comando: npm install ó el comando npom i</li>
+  <li>Luego debes ejecutar el comando: npm start</li>
+  <li>Finalmente debes ir a tu navegador de preferencia y colocar la sigiuiente ruta: http://localhost:3001</li>
+</ol>
 
 Listo ya tienes tu proyecto, para que puedas practicar una y otra vez, viendo el video si lo deseas.
-
 <h2 style="text-align:center">Si quieres ir desde 0 a 100 en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
 <table>
   <tr>
@@ -24,12 +27,3 @@ Listo ya tienes tu proyecto, para que puedas practicar una y otra vez, viendo el
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>  
-    <td>
-       <a href= "https://cedavilu.com/" target="_blank"> <img style="width: 100" src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg"></a>
-    </td> 
-  </tr>
-</table>
-

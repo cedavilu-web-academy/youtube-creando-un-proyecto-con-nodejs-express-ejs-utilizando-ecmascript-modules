@@ -1,4 +1,4 @@
-<h1>Creando un proyecyto con NODE.JS - EXPRESS Y EJS, utiliozando Ecmascript modules</h1>
+<h1>Creando un proyecyto con NODE.JS - EXPRESS - EJS, utilizando Ecmascript modules</h1>
 <br>
 <h2>Al descargar este proyecto, debes ejecutar los siguientes pasos:</h2>
 <ol>
